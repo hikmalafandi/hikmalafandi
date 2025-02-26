@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 M. Nur Hikmal Afandi
 
 ## 🔥 Most Used Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hikmalafandi&layout=compact&theme=merko&hide_border=true)
