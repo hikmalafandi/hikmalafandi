@@ -6,6 +6,10 @@
 ## 🔥 Most Used Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hikmalafandi&layout=compact&theme=merko&hide_border=true)
 
+## 📈 GitHub Activity Graph  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=react-dark)
+
+
 <!--
 **hikmalafandi/hikmalafandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
