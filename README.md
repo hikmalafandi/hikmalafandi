@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+## 🚀 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hikmalafandi&show_icons=true&theme=merko&hide_border=true)  
+
+## 🔥 Most Used Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hikmalafandi&layout=compact&theme=merko&hide_border=true)
+
 <!--
 **hikmalafandi/hikmalafandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
