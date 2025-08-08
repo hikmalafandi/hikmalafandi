@@ -3,8 +3,10 @@
 ## 🔥 Most Used Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hikmalafandi&layout=compact&theme=merko&hide_border=true)
 
+<!--
 ## 📈 GitHub Activity Graph  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hikmalafandi&theme=react-dark)
+-->
 
 <!-- ## 🚀 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hikmalafandi&show_icons=true&theme=merko&hide_border=true)  -->
